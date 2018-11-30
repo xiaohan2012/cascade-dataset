@@ -10,6 +10,8 @@ a list of datasets on cascades/information propagation with groud truth social n
 
 - [tweets with URL dataset](http://lsir.epfl.ch/research/datasets/socialnetwork/)
 
+- [twitter in singapore](https://ink.library.smu.edu.sg/researchdata/20/)
+
 - [Aminer Citation Network Dataset](https://aminer.org/citation)
   - author graph needs to be constructed
   - citations of one paper as cascade
