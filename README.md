@@ -12,6 +12,8 @@ a list of datasets on cascades/information propagation with groud truth social n
 
 - [twitter in singapore](https://ink.library.smu.edu.sg/researchdata/20/) (no download links)
 
+- [seismic (from snap)](https://snap.stanford.edu/seismic/) (link broken)
+
 - [Aminer Citation Network Dataset](https://aminer.org/citation)
   - author graph needs to be constructed
   - citations of one paper as cascade
